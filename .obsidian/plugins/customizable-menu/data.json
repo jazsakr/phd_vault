@@ -1,0 +1,18 @@
+{
+  "menuCommands": [
+    {
+      "id": "editor:open-link-in-new-leaf",
+      "name": "Open link under cursor in new pane",
+      "icon": "link-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "Enter"
+        }
+      ]
+    }
+  ]
+}

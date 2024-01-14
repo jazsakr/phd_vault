@@ -1,0 +1,26 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Projects/wet lab protocols.md",
+    "Projects/TUC-seq/TUC-seq.md",
+    "WetLab/wet lab protocols.md",
+    "Dry Lab/Bioinformatics/Packages/Porechop.md",
+    "Projects/TUC-seq/TUC-seq C2C12 experimental considerations.md",
+    "Dry Lab/Dry Lab To-Do.md",
+    "Dry Lab/Coding/snakemake.md",
+    "Projects/IGVF/IGVF notes.md",
+    "Projects/FSHD/FSHD To-Do List.md",
+    "General To-Do List.md"
+  ],
+  "_hiddenTags": []
+}

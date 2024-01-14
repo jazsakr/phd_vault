@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "fec9e4e8090c1731",
+    "type": "split",
+    "children": [
+      {
+        "id": "73a45f7cb9423daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf4bed68f3af7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e228e7d347921a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14adfb0876394a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741fdec26e321b0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "578134e128a6f688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:nanopore",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ad2ba9581c9a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "09b4105522c87a0a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "292938883a902b49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de104c662e1b4c6",
+        "type": "tabs",
+        "dimension": 30.130597014925375,
+        "children": [
+          {
+            "id": "875634a527463e8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1521110dafd82173",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f99a3b6d81366a31",
+        "type": "tabs",
+        "dimension": 69.86940298507463,
+        "children": [
+          {
+            "id": "302be36be87b64b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "bb6d80223bc07bb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "485e7cc7b980b6e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4dfb26f417a93b69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "28032cad9e7da74e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "edadd52434c6177b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "fdf4bed68f3af7f8",
+  "lastOpenFiles": [
+    "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md",
+    "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
+    "Nanopore/pod5.md",
+    "Vault/templates/frontmatter template.md",
+    "Vault/templates/packages template.md",
+    "Vault/templates/to-do template.md",
+    "Vault/templates/conference template.md",
+    "Vault/obsidian references/Obsiadian callout boxes.md",
+    "Vault/obsidian references/Obsidian colored text.md",
+    "Vault/obsidian references",
+    "Nanopore/Nanopore.md",
+    "Nanopore/code for Nanopore",
+    "README.md",
+    "Vault/templates/protocols.md",
+    "Vault/templates/methylation package template.md",
+    "Vault/templates/seminar template.md",
+    "Vault/templates/papers template.md",
+    "Nanopore",
+    "Vault/scripts/citationsManager.js",
+    "Vault/Embedded Images/images from websites",
+    "Vault/Embedded Images/images from protocols",
+    "Vault/Embedded Images/images from papers",
+    "Vault/Embedded Images/camera photos",
+    "Vault/Embedded Images/Excalidraw",
+    "Vault/scripts",
+    "Vault copy/Templates/to-do template.md",
+    "Vault copy/Templates/seminar template.md",
+    "Vault copy/Templates/protocols.md",
+    "Vault copy/Templates/papers template.md",
+    "Vault copy/Templates/methylation package template.md",
+    "Vault copy/Templates/packages template.md",
+    "Vault copy/Templates/frontmatter template.md",
+    "Vault copy/Templates/conference template.md",
+    "Vault copy/Obsiadian References.md",
+    "General To-Do List.md",
+    "scp terminal copy and paste.md",
+    "Unknown copy.png",
+    "Vault/Embedded Images/in text citation et al.png",
+    "Vault/Embedded Images/images from papers/xuRecentAdvancesDetection2020_fig1 copy.png",
+    "Vault/Embedded Images/images from papers/xieDynamicRegulationDNA2023_fig1.png",
+    "Vault/Embedded Images/images from papers/Mouse-family-tree-The-102-strains.png",
+    "Vault/Embedded Images/images from papers/Fig1_Origin of modern classical strains..jpg",
+    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 6.png",
+    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 8.png",
+    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 9.png",
+    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 10.png"
+  ]
+}

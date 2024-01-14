@@ -1,0 +1,47 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Make a Nanopore code-testing run folder to check code",
+      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
+    },
+    {
+      "basename": "Loop Nanopore basecalling",
+      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
+    },
+    {
+      "basename": "pod5",
+      "path": "Nanopore/pod5.md"
+    },
+    {
+      "basename": "frontmatter template",
+      "path": "Vault/templates/frontmatter template.md"
+    },
+    {
+      "basename": "packages template",
+      "path": "Vault/templates/packages template.md"
+    },
+    {
+      "basename": "to-do template",
+      "path": "Vault/templates/to-do template.md"
+    },
+    {
+      "basename": "Obsiadian callout boxes",
+      "path": "Vault/obsidian references/Obsiadian callout boxes.md"
+    },
+    {
+      "basename": "Obsidian colored text",
+      "path": "Vault/obsidian references/Obsidian colored text.md"
+    },
+    {
+      "basename": "Nanopore",
+      "path": "Nanopore/Nanopore.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 25,
+  "openType": "tab"
+}

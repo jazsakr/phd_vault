@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "QUICK Links Commands Notes",
+      "path": "QUICK Links Commands Notes.md"
+    },
+    {
+      "type": "file",
+      "title": "PhD Projects Overview",
+      "path": "Projects/Queries/PhD Projects Overview.md"
+    },
+    {
+      "type": "file",
+      "title": "HPC3",
+      "path": "Servers.md"
+    },
+    {
+      "type": "file",
+      "title": "Scratch Paper",
+      "path": "Scratch Paper.md"
+    },
+    {
+      "type": "file",
+      "title": "Workspace",
+      "path": "Workspace.md"
+    },
+    {
+      "type": "file",
+      "title": "scp terminal copy and paste",
+      "path": "scp terminal copy and paste.md"
+    }
+  ]
+}

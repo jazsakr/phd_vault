@@ -1,0 +1,58 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:superscript",
+      "name": "cMenu: Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:subscript",
+      "name": "cMenu: Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
+      "id": "editor:insert-callout",
+      "name": "Insert callout",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "hotkeys": [],
+      "icon": "feather-map"
+    },
+    {
+      "id": "obsidian-enhancing-mindmap:Toggle to markdown or mindmap",
+      "name": "Enhancing Mindmap: Toggle to markdown/mindmap mode",
+      "mobileOnly": false,
+      "icon": "remix-ArrowLeftRightFill"
+    },
+    {
+      "id": "open-with-default-app:show",
+      "name": "Open in default app: Show in system explorer",
+      "icon": "file-explorer-glyph"
+    },
+    {
+      "id": "obsidian-enhancing-mindmap:Toggle to markdown or mindmap",
+      "name": "Enhancing Mindmap: Toggle to markdown/mindmap mode",
+      "mobileOnly": false,
+      "icon": "forward-arrow"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}

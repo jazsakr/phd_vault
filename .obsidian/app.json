@@ -1,0 +1,35 @@
+{
+  "fileSortOrder": "byCreatedTime",
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "spellcheckDictionary": [
+    "fastq",
+    "porechop",
+    "unmapped",
+    "basecalling",
+    "Megalodon",
+    "basecalled",
+    "preprocessing",
+    "snakemake",
+    "Nanopore",
+    "nanopore",
+    "MinKNOW",
+    "basecaller"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 65
+  },
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "communityPluginSortOrder": "download",
+  "showFrontmatter": true,
+  "attachmentFolderPath": ""
+}

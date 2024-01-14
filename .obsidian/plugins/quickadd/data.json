@@ -1,0 +1,82 @@
+{
+  "choices": [
+    {
+      "id": "30c93450-e6b7-4a97-bb79-94e005838a5b",
+      "name": "Add Paper",
+      "type": "Macro",
+      "command": true,
+      "macroId": "4b984b7e-fa70-4fee-9d98-ad4dfcb341ad"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Add Paper",
+      "id": "4b984b7e-fa70-4fee-9d98-ad4dfcb341ad",
+      "commands": [
+        {
+          "name": "citationsManager",
+          "type": "UserScript",
+          "id": "2457d5ca-612b-4683-8420-27670c554581",
+          "path": "Vault/scripts/citationsManager.js",
+          "settings": {
+            "Ignore empty values": true
+          }
+        },
+        {
+          "name": "Create paper note",
+          "type": "NestedChoice",
+          "id": "eb1ebe68-cd43-4f0b-9cab-82d797eb5104",
+          "choice": {
+            "id": "7598bf80-f1e7-4e44-8cf9-8cd52de18573",
+            "name": "Create paper note",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Vault/Templates/papers template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:id}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Research/Papers"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

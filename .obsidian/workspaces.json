@@ -1,0 +1,275 @@
+{
+  "workspaces": {
+    "advancement": {
+      "main": {
+        "id": "fec9e4e8090c1731",
+        "type": "split",
+        "children": [
+          {
+            "id": "bcf3c9eecfbf2ad0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc16a40faacb97d2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Research/Advancement/Advancement v1.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "1119f4d797c395da",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ecbf68a37e246eb7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Research/Advancement/Advancement Workspace.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "b1b20725973d15fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Research/Advancement/Advancement copy paste exerpts.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "293884212cb5bb08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MISC/Cosmos/COSMOS2022.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "f0431bbb3dddde93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Research/Papers/papers kim sent me on metabolic labeling.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e228e7d347921a25",
+        "type": "split",
+        "children": [
+          {
+            "id": "a14adfb0876394a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "741fdec26e321b0d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime"
+                  }
+                }
+              },
+              {
+                "id": "578134e128a6f688",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d45d3bed2045146b",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "09b4105522c87a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245.51103591918945
+      },
+      "right": {
+        "id": "292938883a902b49",
+        "type": "split",
+        "children": [
+          {
+            "id": "8de104c662e1b4c6",
+            "type": "tabs",
+            "dimension": 34.74714518760196,
+            "children": [
+              {
+                "id": "875634a527463e8e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "89f662c3cf26065a",
+                "type": "leaf",
+                "state": {
+                  "type": "tlfItemView",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1521110dafd82173",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "f99a3b6d81366a31",
+            "type": "tabs",
+            "dimension": 65.25285481239804,
+            "children": [
+              {
+                "id": "485e7cc7b980b6e9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Research/Advancement/Advancement Workspace.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4dfb26f417a93b69",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Research/Advancement/Advancement Workspace.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "302be36be87b64b0",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Research/Advancement/Advancement Workspace.md"
+                  }
+                }
+              },
+              {
+                "id": "bb6d80223bc07bb9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "edadd52434c6177b",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a19e3e2690a369c8",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 351.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-file-info-plugin:File Info Panel": false,
+          "customizable-sidebar:TimeStamper: Insert custom time/date stamp": false,
+          "customizable-sidebar:Mind Map: Preview the current note as a Mind Map": false,
+          "customizable-sidebar:Find & Replace in Selection: Find And Replace": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "ecbf68a37e246eb7"
+    }
+  },
+  "active": "advancement"
+}
