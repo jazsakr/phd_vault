@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +205,9 @@
   },
   "active": "fdf4bed68f3af7f8",
   "lastOpenFiles": [
-    "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md",
     "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
+    "README.md",
+    "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md",
     "Nanopore/pod5.md",
     "Vault/templates/frontmatter template.md",
     "Vault/templates/packages template.md",
@@ -216,7 +218,6 @@
     "Vault/obsidian references",
     "Nanopore/Nanopore.md",
     "Nanopore/code for Nanopore",
-    "README.md",
     "Vault/templates/protocols.md",
     "Vault/templates/methylation package template.md",
     "Vault/templates/seminar template.md",

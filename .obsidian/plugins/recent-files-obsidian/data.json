@@ -5,12 +5,12 @@
       "path": "README.md"
     },
     {
-      "basename": "Make a Nanopore code-testing run folder to check code",
-      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
-    },
-    {
       "basename": "Loop Nanopore basecalling",
       "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
+    },
+    {
+      "basename": "Make a Nanopore code-testing run folder to check code",
+      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
     },
     {
       "basename": "pod5",
