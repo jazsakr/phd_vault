@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "23e287510fc64a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How I use my vault.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -178,13 +190,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,18 +215,24 @@
   },
   "active": "fdf4bed68f3af7f8",
   "lastOpenFiles": [
-    "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
+    "Bioinformatics/Packages/samtools.md",
     "README.md",
-    "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md",
-    "Nanopore/pod5.md",
+    "How I use my vault.md",
+    "Vault/templates/to-do template.md",
     "Vault/templates/frontmatter template.md",
     "Vault/templates/packages template.md",
-    "Vault/templates/to-do template.md",
+    "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
+    "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md",
+    "Nanopore/Nanopore.md",
+    "Bioinformatics/Packages",
+    "Bioinformatics",
+    "Untitled.txt",
+    "untitled folder",
+    "Nanopore/pod5.md",
     "Vault/templates/conference template.md",
     "Vault/obsidian references/Obsiadian callout boxes.md",
     "Vault/obsidian references/Obsidian colored text.md",
     "Vault/obsidian references",
-    "Nanopore/Nanopore.md",
     "Nanopore/code for Nanopore",
     "Vault/templates/protocols.md",
     "Vault/templates/methylation package template.md",
@@ -226,10 +242,6 @@
     "Vault/scripts/citationsManager.js",
     "Vault/Embedded Images/images from websites",
     "Vault/Embedded Images/images from protocols",
-    "Vault/Embedded Images/images from papers",
-    "Vault/Embedded Images/camera photos",
-    "Vault/Embedded Images/Excalidraw",
-    "Vault/scripts",
     "Vault copy/Templates/to-do template.md",
     "Vault copy/Templates/seminar template.md",
     "Vault copy/Templates/protocols.md",
@@ -239,8 +251,6 @@
     "Vault copy/Templates/frontmatter template.md",
     "Vault copy/Templates/conference template.md",
     "Vault copy/Obsiadian References.md",
-    "General To-Do List.md",
-    "scp terminal copy and paste.md",
     "Unknown copy.png",
     "Vault/Embedded Images/in text citation et al.png",
     "Vault/Embedded Images/images from papers/xuRecentAdvancesDetection2020_fig1 copy.png",

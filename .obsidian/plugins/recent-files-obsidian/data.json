@@ -5,16 +5,16 @@
       "path": "README.md"
     },
     {
-      "basename": "Loop Nanopore basecalling",
-      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
+      "basename": "samtools",
+      "path": "Bioinformatics/Packages/samtools.md"
     },
     {
-      "basename": "Make a Nanopore code-testing run folder to check code",
-      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
+      "basename": "How I use my vault",
+      "path": "How I use my vault.md"
     },
     {
-      "basename": "pod5",
-      "path": "Nanopore/pod5.md"
+      "basename": "to-do template",
+      "path": "Vault/templates/to-do template.md"
     },
     {
       "basename": "frontmatter template",
@@ -25,8 +25,20 @@
       "path": "Vault/templates/packages template.md"
     },
     {
-      "basename": "to-do template",
-      "path": "Vault/templates/to-do template.md"
+      "basename": "Loop Nanopore basecalling",
+      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
+    },
+    {
+      "basename": "Make a Nanopore code-testing run folder to check code",
+      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
+    },
+    {
+      "basename": "Nanopore",
+      "path": "Nanopore/Nanopore.md"
+    },
+    {
+      "basename": "pod5",
+      "path": "Nanopore/pod5.md"
     },
     {
       "basename": "Obsiadian callout boxes",
@@ -35,10 +47,6 @@
     {
       "basename": "Obsidian colored text",
       "path": "Vault/obsidian references/Obsidian colored text.md"
-    },
-    {
-      "basename": "Nanopore",
-      "path": "Nanopore/Nanopore.md"
     }
   ],
   "omittedPaths": [],
