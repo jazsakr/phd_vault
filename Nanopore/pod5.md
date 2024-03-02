@@ -5,15 +5,25 @@ type: package
 status: maintained
 ---
 
-GitHub: [POD5 File Format](https://github.com/nanoporetech/pod5-file-format) 
+GitHub: [nanoporetech](https://github.com/nanoporetech)/[pod5-file-format](https://github.com/nanoporetech/pod5-file-format)
 
 Documentation: [Pod5 File Format Documentation](https://pod5-file-format.readthedocs.io/en/latest/index.html)
 
 ---
 
+**Description**: File format for storing raw [[nanopore]] data.
+
+---
+
+# Install
+
+```bash
+pip install pod5
+```
+
+# Usage
+
 [Converting fast5 files into pod5 files](https://github.com/nanoporetech/pod5-file-format/blob/master/python/pod5/README.md#pod5-convert-fast5) #convert 
-
-
 
 ```bash
 # convert each fast5 into its corresponding pod5

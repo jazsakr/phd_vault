@@ -114,6 +114,7 @@ for cat_files in completed_bams_*.txt; do while read -r line; do path=$(find ./ 
 
 for bam_file_list in completed_bams_*.txt; do echo "Concatenating bams from $bam_file_list" && n=$(echo $bam_file_list | sed -n 's/.*_\([0-9]\+\)\.txt/\1/p') && samtools cat --threads ${t} -b $bam_file_list -o ${sample}_${n}.bam; done && rm completed_bams_*.txt
 
+echo "Creating final bam file"
 samtools cat --threads ${t} -o ${sample}.bam ${sample}_*.bam && rm ${sample}_*.bam
 ```
 
@@ -122,5 +123,5 @@ Alternatively, here it is as a one liner:
 ```bash
 sample="sample" && t=12
 
-split -l 500 -d completed_bams.txt completed_bams_ --suffix-length=1 --additional-suffix=.txt && for cat_files in completed_bams_*.txt; do while read -r line; do path=$(find ./ -type f -name "$line") && sed -i "s|$line|$path|g" $cat_files; done < $cat_files; done && for bam_file_list in completed_bams_*.txt; do echo "Concatenating bams from $bam_file_list" && n=$(echo $bam_file_list | sed -n 's/.*_\([0-9]\+\)\.txt/\1/p') && samtools cat --threads ${t} -b $bam_file_list -o ${sample}_${n}.bam; done && rm completed_bams_*.txt && samtools cat --threads ${t} -o ${sample}.bam ${sample}_*.bam && rm ${sample}_*.bam
+split -l 500 -d completed_bams.txt completed_bams_ --suffix-length=1 --additional-suffix=.txt && for cat_files in completed_bams_*.txt; do while read -r line; do path=$(find ./ -type f -name "$line") && sed -i "s|$line|$path|g" $cat_files; done < $cat_files; done && for bam_file_list in completed_bams_*.txt; do echo "Concatenating bams from $bam_file_list" && n=$(echo $bam_file_list | sed -n 's/.*_\([0-9]\+\)\.txt/\1/p') && samtools cat --threads ${t} -b $bam_file_list -o ${sample}_${n}.bam; done && rm completed_bams_*.txt && echo "Creating final bam file" && samtools cat --threads ${t} -o ${sample}.bam ${sample}_*.bam && rm ${sample}_*.bam
 ```

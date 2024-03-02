@@ -5,12 +5,44 @@
       "path": "README.md"
     },
     {
-      "basename": "samtools",
-      "path": "Bioinformatics/Packages/samtools.md"
+      "basename": "Convert fast5 to pod5 and re-basecall",
+      "path": "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md"
     },
     {
       "basename": "How I use my vault",
       "path": "How I use my vault.md"
+    },
+    {
+      "basename": "dorado",
+      "path": "Nanopore/dorado.md"
+    },
+    {
+      "basename": "samtools",
+      "path": "Dry Lab/Bioinformatics/Packages/samtools.md"
+    },
+    {
+      "basename": "pigz",
+      "path": "Dry Lab/Bioinformatics/Packages/pigz.md"
+    },
+    {
+      "basename": "pod5",
+      "path": "Nanopore/pod5.md"
+    },
+    {
+      "basename": "packages template",
+      "path": "Vault/templates/packages template.md"
+    },
+    {
+      "basename": "Miniconda",
+      "path": "Dry Lab/Bioinformatics/Coding/Miniconda.md"
+    },
+    {
+      "basename": "Make a Nanopore code-testing run folder to check code",
+      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
+    },
+    {
+      "basename": "Loop Nanopore basecalling",
+      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
     },
     {
       "basename": "to-do template",
@@ -21,24 +53,8 @@
       "path": "Vault/templates/frontmatter template.md"
     },
     {
-      "basename": "packages template",
-      "path": "Vault/templates/packages template.md"
-    },
-    {
-      "basename": "Loop Nanopore basecalling",
-      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
-    },
-    {
-      "basename": "Make a Nanopore code-testing run folder to check code",
-      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
-    },
-    {
       "basename": "Nanopore",
       "path": "Nanopore/Nanopore.md"
-    },
-    {
-      "basename": "pod5",
-      "path": "Nanopore/pod5.md"
     },
     {
       "basename": "Obsiadian callout boxes",
