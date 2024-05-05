@@ -5,20 +5,36 @@
       "path": "README.md"
     },
     {
-      "basename": "Convert fast5 to pod5 and re-basecall",
-      "path": "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md"
-    },
-    {
       "basename": "How I use my vault",
       "path": "How I use my vault.md"
     },
     {
-      "basename": "dorado",
-      "path": "Nanopore/dorado.md"
+      "basename": "minimap",
+      "path": "Dry Lab/Bioinformatics/Packages/minimap.md"
+    },
+    {
+      "basename": "map unmapped methyl bam",
+      "path": "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md"
+    },
+    {
+      "basename": "Reagent List",
+      "path": "Wet Lab/Reagent List.md"
     },
     {
       "basename": "samtools",
       "path": "Dry Lab/Bioinformatics/Packages/samtools.md"
+    },
+    {
+      "basename": "Loop Nanopore basecalling",
+      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
+    },
+    {
+      "basename": "Convert fast5 to pod5 and re-basecall",
+      "path": "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md"
+    },
+    {
+      "basename": "dorado",
+      "path": "Nanopore/dorado.md"
     },
     {
       "basename": "pigz",
@@ -39,10 +55,6 @@
     {
       "basename": "Make a Nanopore code-testing run folder to check code",
       "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
-    },
-    {
-      "basename": "Loop Nanopore basecalling",
-      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
     },
     {
       "basename": "to-do template",

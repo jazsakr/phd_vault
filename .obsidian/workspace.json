@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:nanopore",
+                "query": "igvf",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,17 +215,23 @@
   },
   "active": "fdf4bed68f3af7f8",
   "lastOpenFiles": [
-    "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md",
     "How I use my vault.md",
-    "README.md",
-    "Nanopore/dorado.md",
+    "Dry Lab/Bioinformatics/Packages/minimap.md",
+    "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md",
+    "Wet Lab/Reagent List.md",
     "Dry Lab/Bioinformatics/Packages/samtools.md",
+    "README.md",
+    "minimap2.md",
+    "Dry Lab/Bioinformatics/Coding/script code",
+    "Wet Lab",
+    "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
+    "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md",
+    "Nanopore/dorado.md",
     "Dry Lab/Bioinformatics/Packages/pigz.md",
     "Nanopore/pod5.md",
     "Vault/templates/packages template.md",
     "Dry Lab/Bioinformatics/Coding/Miniconda.md",
     "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md",
-    "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
     "Dry Lab/Bioinformatics/Coding",
     "Dry Lab",
     "Vault/templates/to-do template.md",
@@ -244,13 +250,7 @@
     "Vault/templates/methylation package template.md",
     "Vault/templates/seminar template.md",
     "Vault/templates/papers template.md",
-    "Nanopore",
-    "Vault/scripts/citationsManager.js",
     "Vault copy/Templates/to-do template.md",
-    "Vault copy/Templates/seminar template.md",
-    "Vault copy/Templates/protocols.md",
-    "Vault copy/Templates/papers template.md",
-    "Vault copy/Templates/methylation package template.md",
     "Unknown copy.png",
     "Vault/Embedded Images/in text citation et al.png",
     "Vault/Embedded Images/images from papers/xuRecentAdvancesDetection2020_fig1 copy.png",

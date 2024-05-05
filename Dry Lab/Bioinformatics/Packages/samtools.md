@@ -55,6 +55,12 @@ samtools view -h -F 260 --threads 6 sample_unsorted.bam | samtools sort -@ 6 -o 
 samtools merge -o final.bam --threads 12 -r sample1.bam sample2.bam
 ```
 
+## `cat`
+```bash
+# concat unmapped bam files from list of bam files
+samtools cat --threads 12 -b bams_to_concat.txt -o sample.bam
+```
+
 ## `reset`
 ```bash
 # remove mapping information from bam file (helpful if you want to remap without rebasecalling)
@@ -149,6 +155,36 @@ rm sample_coverage_unsorted.tsv
 
 # one liner for the command line
 samtools coverage sample.bam | awk 'NR==1 {print $1, $4, $6, $7; next} {printf "%s\t%s\t%.2f%%\t%.2fx\n", $1, $4, $6, $7}' > sample_coverage_unsorted.tsv && echo -e "chrom\tnumreads\tcoverage\tmeandepth" > sample_coverage.tsv && cat sample_coverage_unsorted.tsv | tail -n +2 | sort -k1,1V | tr ' ' '\t' >> sample_coverage.tsv && rm sample_coverage_unsorted.tsv
+```
+
+##  Update`stats` report
+
+After creating my coverage report, I want to get the average coverage and add it to the statistics report I generated earlier. 
+
+The following code will:
+1. Omit the lines with header, chrM, chrX, and chrY
+2. Get the fourth column with coverage and drop the “x” character
+3. Calculated the average coverage
+4. Add the average coverage to the statistics report generated previously
+
+
+```bash
+# update the stats.txt to include average coverage from coverage.tsv
+awk 'NR > 1 && $1 != "chrM" && $1 != "chrX" && $1 != "chrY" { sub(/x$/, "", $4); sum += $4; count++ } END { printf "Average depth: %.2fx\n", sum / count }' sample_coverage.tsv >> sample_stats.txt
+```
+
+The updated report will look something like this:
+
+```
+total reads:	7460016 (7.46 M)
+reads mapped:	5747566 (5.75 M)
+reads unmapped:	1712450 (1.71 M)
+supplementary alignments:	1015394 (1.02 M)
+total length:	63115221520 (63.12 Gb)
+bases mapped:	57290692041 (57.29 Gb)
+average length:	8460
+maximum length:	1384696
+average coverage: 22.34x
 ```
 
 ---

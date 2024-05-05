@@ -20,6 +20,27 @@ It will find just 3 pod5 files, and for each print:
 for pod5_file_check in $(find ./ -type f -name '*.pod5' | head -3); do pod5_name_check="$(basename "${pod5_file_check}")"; echo $pod5_name_check; bam_file_check="$(basename "${pod5_file_check%.pod5}.bam")"; echo $bam_file_check; echo $pod5_file_check; output_dir_check="$(dirname "${pod5_file_check}" | sed 's/pod5/bam/')"; echo $output_dir_check; output_bam_check="${output_dir_check}/${bam_file_check}"; echo -e "$output_bam_check\n"; done
 ```
 
+An example output would look something like this:
+```
+PAU69931_e81305f7_8b5643e7_0.pod5 
+PAU69931_e81305f7_8b5643e7_0.bam 
+./pod5/PAU69931_e81305f7_8b5643e7_0.pod5 
+./bam 
+./bam/PAU69931_e81305f7_8b5643e7_0.bam 
+
+PAU69931_e81305f7_8b5643e7_1.pod5 
+PAU69931_e81305f7_8b5643e7_1.bam 
+./pod5/PAU69931_e81305f7_8b5643e7_1.pod5 
+./bam 
+./bam/PAU69931_e81305f7_8b5643e7_1.bam 
+
+PAU69931_e81305f7_8b5643e7_10.pod5 
+PAU69931_e81305f7_8b5643e7_10.bam 
+./pod5/PAU69931_e81305f7_8b5643e7_10.pod5 
+./bam 
+./bam/PAU69931_e81305f7_8b5643e7_10.bam
+```
+
 ---
 
 # Loop Script
@@ -38,7 +59,7 @@ If the variables look correct, edit the dorado variables and run this script in 
 
 # dorado parameters
 dorado_command="$HOME/packages/dorado/dorado-0.5.1-linux-x64/bin/dorado basecaller"
-dorado_options="--modified-bases 5mCG_5hmCG  --device "cuda:0" "
+dorado_options="--modified-bases 5mCG_5hmCG --device "cuda:0" "
 dorado_config="$HOME/packages/dorado/dorado_models/dna_r10.4.1_e8.2_400bps_sup@v4.3.0"
 
 for pod5_file in $(find ./ -type f -name '*.pod5'); do

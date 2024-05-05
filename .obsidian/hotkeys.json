@@ -48,5 +48,13 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-timestamper:obsidian-fast-datestamp": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
   ]
 }
