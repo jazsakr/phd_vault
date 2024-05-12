@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBookMarkedLine",
       "RiFileCodeLine",
       "RiFileSearchLine",
       "RiBookletLine",
-      "RiFolderSettingsLine",
-      "RiFlaskLine"
+      "RiFolderSettingsLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,12 +28,13 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
-    "iconIdentifier": ":",
+    "iconIdentifier": ";",
     "debugMode": false
   },
   "Dry Lab": "RiComputerLine",
   "Wet Lab": "RiFlaskLine",
   "Vault": "RiFolderSettingsLine",
   "Research": "RiFileSearchLine",
-  "Dry Lab/Bioinformatics/Coding/script code": "RiFileCodeLine"
+  "Dry Lab/Bioinformatics/Coding/script code": "RiFileCodeLine",
+  "Projects": "RiBookMarkedLine"
 }

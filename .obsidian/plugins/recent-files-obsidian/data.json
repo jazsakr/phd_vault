@@ -9,72 +9,96 @@
       "path": "How I use my vault.md"
     },
     {
-      "basename": "minimap",
-      "path": "Dry Lab/Bioinformatics/Packages/minimap.md"
+      "basename": "daily note template",
+      "path": "Vault/templates/daily note template.md"
     },
     {
-      "basename": "map unmapped methyl bam",
-      "path": "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md"
+      "basename": "Sequencing Log 2024",
+      "path": "Wet Lab/Sequencing Log 2024.md"
     },
     {
-      "basename": "Reagent List",
-      "path": "Wet Lab/Reagent List.md"
+      "basename": "Project Activity 2024",
+      "path": "Projects/Project Activity 2024.md"
     },
     {
-      "basename": "samtools",
-      "path": "Dry Lab/Bioinformatics/Packages/samtools.md"
+      "basename": "2024-01-04",
+      "path": "Vault/daily note/2024-01-04.md"
     },
     {
-      "basename": "Loop Nanopore basecalling",
-      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
+      "basename": "2024-01-03",
+      "path": "Vault/daily note/2024-01-03.md"
     },
     {
-      "basename": "Convert fast5 to pod5 and re-basecall",
-      "path": "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md"
+      "basename": "2024-01-05",
+      "path": "Vault/daily note/2024-01-05.md"
     },
     {
-      "basename": "dorado",
-      "path": "Nanopore/dorado.md"
+      "basename": "sequencing_log_2024_heatmapcalender",
+      "path": "Vault/embedded images/sequencing_log_2024_heatmapcalender.png"
     },
     {
-      "basename": "pigz",
-      "path": "Dry Lab/Bioinformatics/Packages/pigz.md"
+      "basename": "2024-01-06",
+      "path": "Vault/daily note/2024-01-06.md"
     },
     {
-      "basename": "pod5",
-      "path": "Nanopore/pod5.md"
+      "basename": "2024-01-02",
+      "path": "Vault/daily note/2024-01-02.md"
     },
     {
-      "basename": "packages template",
-      "path": "Vault/templates/packages template.md"
+      "basename": "2024-01-01",
+      "path": "Vault/daily note/2024-01-01.md"
     },
     {
-      "basename": "Miniconda",
-      "path": "Dry Lab/Bioinformatics/Coding/Miniconda.md"
+      "basename": "2024-01-20",
+      "path": "Vault/daily note/2024-01-20.md"
     },
     {
-      "basename": "Make a Nanopore code-testing run folder to check code",
-      "path": "Nanopore/code for Nanopore/Make a Nanopore code-testing run folder to check code.md"
+      "basename": "2024-01-19",
+      "path": "Vault/daily note/2024-01-19.md"
     },
     {
-      "basename": "to-do template",
-      "path": "Vault/templates/to-do template.md"
+      "basename": "2024-01-18",
+      "path": "Vault/daily note/2024-01-18.md"
     },
     {
-      "basename": "frontmatter template",
-      "path": "Vault/templates/frontmatter template.md"
+      "basename": "2024-01-17",
+      "path": "Vault/daily note/2024-01-17.md"
     },
     {
-      "basename": "Nanopore",
-      "path": "Nanopore/Nanopore.md"
+      "basename": "2024-01-08",
+      "path": "Vault/daily note/2024-01-08.md"
     },
     {
-      "basename": "Obsiadian callout boxes",
-      "path": "Vault/obsidian references/Obsiadian callout boxes.md"
+      "basename": "2024-01-07",
+      "path": "Vault/daily note/2024-01-07.md"
     },
     {
-      "basename": "Obsidian colored text",
-      "path": "Vault/obsidian references/Obsidian colored text.md"
+      "basename": "2024-01-26",
+      "path": "Vault/daily note/2024-01-26.md"
+    },
+    {
+      "basename": "2024-01-25",
+      "path": "Vault/daily note/2024-01-25.md"
+    },
+    {
+      "basename": "2024-01-24",
+      "path": "Vault/daily note/2024-01-24.md"
+    },
+    {
+      "basename": "2024-01-23",
+      "path": "Vault/daily note/2024-01-23.md"
+    },
+    {
+      "basename": "2024-01-22",
+      "path": "Vault/daily note/2024-01-22.md"
+    },
+    {
+      "basename": "2024-01-21",
+      "path": "Vault/daily note/2024-01-21.md"
+    },
+    {
+      "basename": "2024-01-11",
+      "path": "Vault/daily note/2024-01-11.md"
     }
   ],
   "omittedPaths": [],

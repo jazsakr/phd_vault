@@ -1,5 +1,5 @@
 {
-  "folder": "Vault/Daily Note",
+  "folder": "Vault/daily note",
   "autorun": false,
-  "format": "YYYY-MMM-D"
+  "format": "YYYY-MM-DD"
 }

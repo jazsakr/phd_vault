@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "day_of_week": "number",
+    "sequencing": "multitext",
+    "project": "multitext",
+    "dry_lab": "checkbox",
+    "wet_lab": "checkbox",
+    "data_maintanence": "checkbox",
+    "exp_prep": "checkbox"
+  }
+}
