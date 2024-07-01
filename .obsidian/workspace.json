@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73a45f7cb9423daf",
+        "id": "26d530f94aace331",
         "type": "tabs",
         "children": [
           {
-            "id": "fdf4bed68f3af7f8",
+            "id": "f46e0b8c1e747cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "23e287510fc64a0e",
+            "id": "f34c694e153574ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "igvf",
+                "query": "follwo",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -212,13 +212,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "fdf4bed68f3af7f8",
+  "active": "f46e0b8c1e747cec",
   "lastOpenFiles": [
     "How I use my vault.md",
     "README.md",
-    "Vault/templates/daily note template.md",
+    "Nanopore/code for Nanopore/Create a Nanopore code-testing run folder to write code.md",
+    "Nanopore/code for Nanopore/Work up barcoded Nanopore runs.md",
+    "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
+    "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md",
     "Wet Lab/Sequencing Log 2024.md",
     "Projects/Project Activity 2024.md",
+    "Vault/templates/daily note template.md",
     "Vault/daily note/2024-01-04.md",
     "Vault/daily note/2024-01-03.md",
     "Vault/daily note/2024-01-05.md",
@@ -237,10 +241,6 @@
     "Vault/daily note/2024-01-24.md",
     "Vault/daily note/2024-01-23.md",
     "Vault/daily note/2024-01-22.md",
-    "Vault/daily note/2024-01-21.md",
-    "Vault/daily note/2024-01-11.md",
-    "Vault/daily note/2024-01-10.md",
-    "Vault/daily note/2024-01-09.md",
     "Projects",
     "Dry Lab/Bioinformatics/Coding/script code",
     "Wet Lab",

@@ -5,7 +5,7 @@ internal link: [[Nanopore]]
 We wanted to convert our older bulk RNA-seq runs with raw data as fast5 files to [[pod5]] then re-basecall them. 
 
 > [!warning] 
-> Code on this page works with a SINGLE final pod5 file and requires the package [[pigz]] for compression.
+> Code on this page works with a **SINGLE** final pod5 file and requires the package [[pigz]] for compression.
 
 First, we move all the old fastq files created by guppy into a folder (you can either decide to keep them or delete them).
 ```bash
@@ -33,7 +33,7 @@ NOTE: You can check progress and estimated completion by running `tail ${file}_p
 
 Next, we want to generate a report from the pod5.log file.
 
-The follwoing code wll:
+The following code wll:
 1. Get `pod5` package version.
 2. Count the number of raw reads in the new pod5 file.
 3. Count the number of fast5 files that did not convert to pod5 due to errors.
