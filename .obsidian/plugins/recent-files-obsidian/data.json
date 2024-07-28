@@ -9,6 +9,30 @@
       "path": "How I use my vault.md"
     },
     {
+      "basename": "DUX4",
+      "path": "Research/Biology/DUX4.md"
+    },
+    {
+      "basename": "kongEngineeredFSHDMutations2024",
+      "path": "Research/Papers/kongEngineeredFSHDMutations2024.md"
+    },
+    {
+      "basename": "SMCHD1",
+      "path": "Research/Biology/SMCHD1.md"
+    },
+    {
+      "basename": "FSHD",
+      "path": "Research/Biology/FSHD.md"
+    },
+    {
+      "basename": "sequencing_log_2024_heatmapcalender",
+      "path": "Vault/embedded images/sequencing_log_2024_heatmapcalender.png"
+    },
+    {
+      "basename": "papers template",
+      "path": "Vault/templates/papers template.md"
+    },
+    {
       "basename": "Create a Nanopore code-testing run folder to write code",
       "path": "Nanopore/code for Nanopore/Create a Nanopore code-testing run folder to write code.md"
     },
@@ -49,10 +73,6 @@
       "path": "Vault/daily note/2024-01-05.md"
     },
     {
-      "basename": "sequencing_log_2024_heatmapcalender",
-      "path": "Vault/embedded images/sequencing_log_2024_heatmapcalender.png"
-    },
-    {
       "basename": "2024-01-06",
       "path": "Vault/daily note/2024-01-06.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "2024-01-17",
       "path": "Vault/daily note/2024-01-17.md"
-    },
-    {
-      "basename": "2024-01-08",
-      "path": "Vault/daily note/2024-01-08.md"
-    },
-    {
-      "basename": "2024-01-07",
-      "path": "Vault/daily note/2024-01-07.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "Vault/daily note/2024-01-26.md"
-    },
-    {
-      "basename": "2024-01-25",
-      "path": "Vault/daily note/2024-01-25.md"
-    },
-    {
-      "basename": "2024-01-24",
-      "path": "Vault/daily note/2024-01-24.md"
     }
   ],
   "omittedPaths": [],

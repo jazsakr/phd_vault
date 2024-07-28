@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "@{{citekey}}",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "Research/Papers/Zotero_Library.bib"
+  "citationExportPath": "/Users/jaz/Zotero/Zotero_Library.bib"
 }

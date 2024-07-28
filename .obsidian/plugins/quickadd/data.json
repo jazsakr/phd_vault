@@ -31,7 +31,7 @@
             "name": "Create paper note",
             "type": "Template",
             "command": false,
-            "templatePath": "Vault/Templates/papers template.md",
+            "templatePath": "Vault/templates/papers template.md",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE:id}}"
@@ -52,7 +52,8 @@
               "focus": true
             },
             "openFile": true,
-            "openFileInMode": "default"
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing"
           }
         }
       ],

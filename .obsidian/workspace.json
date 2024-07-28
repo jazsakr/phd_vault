@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26d530f94aace331",
+        "id": "28a0a235a9361462",
         "type": "tabs",
         "children": [
           {
-            "id": "f46e0b8c1e747cec",
+            "id": "a5f8fa1b9e65f036",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "f34c694e153574ad",
+            "id": "700113e64dbc394c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,10 +212,28 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f46e0b8c1e747cec",
+  "active": "a5f8fa1b9e65f036",
   "lastOpenFiles": [
     "How I use my vault.md",
     "README.md",
+    "Research/Biology/DUX4.md",
+    "Research/Papers/kongEngineeredFSHDMutations2024.md",
+    "Research/Biology/SMCHD1.md",
+    "Vault/embedded images/QuickAdd add paper search.png",
+    "Vault/embedded images/QuickAdd add paper.png",
+    "Vault/embedded images/citation plugin settings.png",
+    "Vault/citation plugin settings.png",
+    "Research/Biology/FSHD.md",
+    "Vault/embedded images/embedded images from papers/kongEngineeredFSHDMutations2024_fig2.jpg",
+    "Vault/embedded images/sequencing_log_2024_heatmapcalender.png",
+    "Vault/embedded images/embedded images from papers",
+    "Research/Biology",
+    "Vault/templates/papers template.md",
+    "Vault/templates/papers template copy.md",
+    "Vault/scripts/citationsManager.js",
+    "Vault/scripts/citationsManager copy.js",
+    "Research/Papers/Zotero_Library.bib.md",
+    "Research/Papers/Zotero_Library.bib",
     "Nanopore/code for Nanopore/Create a Nanopore code-testing run folder to write code.md",
     "Nanopore/code for Nanopore/Work up barcoded Nanopore runs.md",
     "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
@@ -226,7 +244,6 @@
     "Vault/daily note/2024-01-04.md",
     "Vault/daily note/2024-01-03.md",
     "Vault/daily note/2024-01-05.md",
-    "Vault/embedded images/sequencing_log_2024_heatmapcalender.png",
     "Vault/daily note/2024-01-06.md",
     "Vault/daily note/2024-01-02.md",
     "Vault/daily note/2024-01-01.md",
@@ -234,31 +251,14 @@
     "Vault/daily note/2024-01-19.md",
     "Vault/daily note/2024-01-18.md",
     "Vault/daily note/2024-01-17.md",
-    "Vault/daily note/2024-01-08.md",
-    "Vault/daily note/2024-01-07.md",
-    "Vault/daily note/2024-01-26.md",
-    "Vault/daily note/2024-01-25.md",
-    "Vault/daily note/2024-01-24.md",
-    "Vault/daily note/2024-01-23.md",
-    "Vault/daily note/2024-01-22.md",
     "Projects",
     "Dry Lab/Bioinformatics/Coding/script code",
     "Wet Lab",
     "Dry Lab/Bioinformatics/Coding",
     "Dry Lab",
-    "Dry Lab/Bioinformatics/Packages",
-    "Dry Lab/Bioinformatics",
-    "Untitled.txt",
-    "untitled folder",
-    "Vault/obsidian references",
     "Unknown copy.png",
     "Vault/Embedded Images/in text citation et al.png",
     "Vault/Embedded Images/images from papers/xuRecentAdvancesDetection2020_fig1 copy.png",
-    "Vault/Embedded Images/images from papers/xieDynamicRegulationDNA2023_fig1.png",
-    "Vault/Embedded Images/images from papers/Mouse-family-tree-The-102-strains.png",
-    "Vault/Embedded Images/images from papers/Fig1_Origin of modern classical strains..jpg",
-    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 6.png",
-    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 8.png",
-    "Vault/Embedded Images/images from protocols/NEB T3060 part 2 step 9.png"
+    "Vault/Embedded Images/images from papers/xieDynamicRegulationDNA2023_fig1.png"
   ]
 }

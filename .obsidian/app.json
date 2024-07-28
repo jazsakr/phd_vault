@@ -27,7 +27,7 @@
     "margin": "0",
     "downscalePercent": 65
   },
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "livePreview": false,
   "communityPluginSortOrder": "download",
   "showFrontmatter": true,
