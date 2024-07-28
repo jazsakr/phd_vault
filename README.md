@@ -1,5 +1,4 @@
-# PhD Obsidian Vault (upload in progress) <meta name="google-site-verification" content="GXmzM1u-fvM6G26BpDeejTqAdhwWa37hgj945VQy-j8" />
-
+# PhD Obsidian Vault (upload in progress)
 January 2024
 
 As I reach closer to the end of my PhD, I want to share a version of the vault I have been building throughout my PhD after stumbling upon Obsidian.
