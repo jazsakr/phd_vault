@@ -1,4 +1,4 @@
-# PhD Obsidian Vault (upload in progress)
+# PhD Obsidian Vault (upload in progress) <meta name="google-site-verification" content="GXmzM1u-fvM6G26BpDeejTqAdhwWa37hgj945VQy-j8" />
 
 January 2024
 
