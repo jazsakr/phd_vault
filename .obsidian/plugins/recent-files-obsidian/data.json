@@ -5,6 +5,26 @@
       "path": "README.md"
     },
     {
+      "basename": "Boxplot",
+      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md"
+    },
+    {
+      "basename": "sequencing_log_2024_heatmapcalender",
+      "path": "Vault/embedded images/sequencing_log_2024_heatmapcalender.png"
+    },
+    {
+      "basename": "citation plugin settings",
+      "path": "Vault/embedded images/citation plugin settings.png"
+    },
+    {
+      "basename": "QuickAdd add paper",
+      "path": "Vault/embedded images/QuickAdd add paper.png"
+    },
+    {
+      "basename": "QuickAdd add paper search",
+      "path": "Vault/embedded images/QuickAdd add paper search.png"
+    },
+    {
       "basename": "How I use my vault",
       "path": "How I use my vault.md"
     },
@@ -23,10 +43,6 @@
     {
       "basename": "FSHD",
       "path": "Research/Biology/FSHD.md"
-    },
-    {
-      "basename": "sequencing_log_2024_heatmapcalender",
-      "path": "Vault/embedded images/sequencing_log_2024_heatmapcalender.png"
     },
     {
       "basename": "papers template",
@@ -79,26 +95,6 @@
     {
       "basename": "2024-01-02",
       "path": "Vault/daily note/2024-01-02.md"
-    },
-    {
-      "basename": "2024-01-01",
-      "path": "Vault/daily note/2024-01-01.md"
-    },
-    {
-      "basename": "2024-01-20",
-      "path": "Vault/daily note/2024-01-20.md"
-    },
-    {
-      "basename": "2024-01-19",
-      "path": "Vault/daily note/2024-01-19.md"
-    },
-    {
-      "basename": "2024-01-18",
-      "path": "Vault/daily note/2024-01-18.md"
-    },
-    {
-      "basename": "2024-01-17",
-      "path": "Vault/daily note/2024-01-17.md"
     }
   ],
   "omittedPaths": [],
