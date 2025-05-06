@@ -5,8 +5,20 @@
       "path": "README.md"
     },
     {
+      "basename": "Violin plot",
+      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md"
+    },
+    {
       "basename": "Boxplot",
       "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md"
+    },
+    {
+      "basename": "minimap",
+      "path": "Dry Lab/Bioinformatics/Packages/minimap.md"
+    },
+    {
+      "basename": "map unmapped methyl bam",
+      "path": "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md"
     },
     {
       "basename": "sequencing_log_2024_heatmapcalender",
@@ -87,14 +99,6 @@
     {
       "basename": "2024-01-05",
       "path": "Vault/daily note/2024-01-05.md"
-    },
-    {
-      "basename": "2024-01-06",
-      "path": "Vault/daily note/2024-01-06.md"
-    },
-    {
-      "basename": "2024-01-02",
-      "path": "Vault/daily note/2024-01-02.md"
     }
   ],
   "omittedPaths": [],
