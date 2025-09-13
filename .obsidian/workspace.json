@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5f8fa1b9e65f036",
+            "id": "eea3d3714028e031",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 300.5
   },
   "right": {
     "id": "292938883a902b49",
@@ -98,7 +99,7 @@
       {
         "id": "8de104c662e1b4c6",
         "type": "tabs",
-        "dimension": 30.130597014925375,
+        "dimension": 38.021454112038136,
         "children": [
           {
             "id": "875634a527463e8e",
@@ -121,7 +122,7 @@
       {
         "id": "f99a3b6d81366a31",
         "type": "tabs",
-        "dimension": 69.86940298507463,
+        "dimension": 61.97854588796186,
         "children": [
           {
             "id": "302be36be87b64b0",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "How I use my vault.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "How I use my vault.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "How I use my vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,25 +208,38 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5f8fa1b9e65f036",
+  "active": "700113e64dbc394c",
   "lastOpenFiles": [
-    "How I use my vault.md",
     "README.md",
+    "How I use my vault.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md",
+    "Vault/embedded images/venn_plot_example1.png",
+    "Vault/embedded images/venn_plot_example1adsfasd.png",
+    "Vault/embedded images/7897149f-45fe-4712-be13-fbfe992b7339.png",
+    "Vault/embedded images/violin_plot_example2.png",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot copy.md",
+    "Vault/embedded images/violin_plot_example1.png",
+    "Dry Lab/Bioinformatics/Packages/minimap.md",
+    "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md",
+    "Vault/embedded images/boxplot_example1.png",
+    "Vault/embedded images/Screenshot 2025-04-28 at 8.50.11 PM.png",
+    "Vault/embedded images/sdfgsdfg.png",
+    "Vault/embedded images/Screenshot 2025-04-27 at 1.21.04 AM.png",
+    "Vault/embedded images/asdfasdfasd.png",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots",
+    "Dry Lab/Bioinformatics/Coding/Python",
+    "Vault/scripts/zotero.js",
     "Research/Biology/DUX4.md",
     "Research/Papers/kongEngineeredFSHDMutations2024.md",
     "Research/Biology/SMCHD1.md",
-    "Vault/embedded images/QuickAdd add paper search.png",
-    "Vault/embedded images/QuickAdd add paper.png",
-    "Vault/embedded images/citation plugin settings.png",
-    "Vault/citation plugin settings.png",
     "Research/Biology/FSHD.md",
-    "Vault/embedded images/embedded images from papers/kongEngineeredFSHDMutations2024_fig2.jpg",
-    "Vault/embedded images/sequencing_log_2024_heatmapcalender.png",
     "Vault/embedded images/embedded images from papers",
     "Research/Biology",
     "Vault/templates/papers template.md",
@@ -244,21 +258,7 @@
     "Vault/daily note/2024-01-04.md",
     "Vault/daily note/2024-01-03.md",
     "Vault/daily note/2024-01-05.md",
-    "Vault/daily note/2024-01-06.md",
-    "Vault/daily note/2024-01-02.md",
-    "Vault/daily note/2024-01-01.md",
-    "Vault/daily note/2024-01-20.md",
-    "Vault/daily note/2024-01-19.md",
-    "Vault/daily note/2024-01-18.md",
-    "Vault/daily note/2024-01-17.md",
     "Projects",
-    "Dry Lab/Bioinformatics/Coding/script code",
-    "Wet Lab",
-    "Dry Lab/Bioinformatics/Coding",
-    "Dry Lab",
-    "Unknown copy.png",
-    "Vault/Embedded Images/in text citation et al.png",
-    "Vault/Embedded Images/images from papers/xuRecentAdvancesDetection2020_fig1 copy.png",
-    "Vault/Embedded Images/images from papers/xieDynamicRegulationDNA2023_fig1.png"
+    "Dry Lab/Bioinformatics/Coding/script code"
   ]
 }
