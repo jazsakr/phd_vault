@@ -215,8 +215,10 @@
   },
   "active": "700113e64dbc394c",
   "lastOpenFiles": [
-    "README.md",
+    "Dry Lab/Bioinformatics/Download Genomic Info.md",
+    "Dry Lab/Bioinformatics/Packages/bigBedToBed.md",
     "How I use my vault.md",
+    "README.md",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md",
@@ -257,7 +259,6 @@
     "Vault/templates/daily note template.md",
     "Vault/daily note/2024-01-04.md",
     "Vault/daily note/2024-01-03.md",
-    "Vault/daily note/2024-01-05.md",
     "Projects",
     "Dry Lab/Bioinformatics/Coding/script code"
   ]

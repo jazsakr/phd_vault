@@ -5,6 +5,14 @@
       "path": "How I use my vault.md"
     },
     {
+      "basename": "Download Genomic Info",
+      "path": "Dry Lab/Bioinformatics/Download Genomic Info.md"
+    },
+    {
+      "basename": "bigBedToBed",
+      "path": "Dry Lab/Bioinformatics/Packages/bigBedToBed.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "daily note template",
       "path": "Vault/templates/daily note template.md"
-    },
-    {
-      "basename": "2024-01-04",
-      "path": "Vault/daily note/2024-01-04.md"
-    },
-    {
-      "basename": "2024-01-03",
-      "path": "Vault/daily note/2024-01-03.md"
     }
   ],
   "omittedPaths": [],
