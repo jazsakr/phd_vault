@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How I use my vault.md"
+                "file": "README.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How I use my vault.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How I use my vault.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,22 +212,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "700113e64dbc394c",
+  "active": "eea3d3714028e031",
   "lastOpenFiles": [
-    "Dry Lab/Bioinformatics/Download Genomic Info.md",
-    "Dry Lab/Bioinformatics/Packages/bigBedToBed.md",
     "How I use my vault.md",
-    "README.md",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md",
-    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
+    "Dry Lab/Bioinformatics/Packages/alfred.md",
+    "Dry Lab/Bioinformatics/Packages/samtools.md",
+    "Dry Lab/Bioinformatics/Packages/minimap.md",
+    "Dry Lab/Bioinformatics/Packages/pigz.md",
+    "Dry Lab/Bioinformatics/Packages/bigBedToBed.md",
+    "Dry Lab/Bioinformatics/Packages/Clair3.md",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
+    "Dry Lab/Bioinformatics/Download Genomic Info.md",
+    "README.md",
     "Vault/embedded images/venn_plot_example1.png",
     "Vault/embedded images/venn_plot_example1adsfasd.png",
     "Vault/embedded images/7897149f-45fe-4712-be13-fbfe992b7339.png",
     "Vault/embedded images/violin_plot_example2.png",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot copy.md",
     "Vault/embedded images/violin_plot_example1.png",
-    "Dry Lab/Bioinformatics/Packages/minimap.md",
     "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md",
     "Vault/embedded images/boxplot_example1.png",
     "Vault/embedded images/Screenshot 2025-04-28 at 8.50.11 PM.png",
@@ -255,10 +258,6 @@
     "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
     "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md",
     "Wet Lab/Sequencing Log 2024.md",
-    "Projects/Project Activity 2024.md",
-    "Vault/templates/daily note template.md",
-    "Vault/daily note/2024-01-04.md",
-    "Vault/daily note/2024-01-03.md",
     "Projects",
     "Dry Lab/Bioinformatics/Coding/script code"
   ]

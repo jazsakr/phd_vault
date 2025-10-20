@@ -1,7 +1,8 @@
 ---
 aliases:
   - minimap2
-tags: []
+tags:
+  - alignment
 type: package
 status: maintained
 ---

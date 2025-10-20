@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+  - alignment
 type: package
 status: maintained
 ---
