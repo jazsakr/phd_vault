@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "How I use my vault",
+      "path": "How I use my vault.md"
+    },
+    {
+      "basename": "Barplot",
+      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Barplot.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "How I use my vault",
-      "path": "How I use my vault.md"
+      "basename": "Violin plot",
+      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md"
+    },
+    {
+      "basename": "Venn diagram",
+      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md"
     },
     {
       "basename": "Boxplot",
@@ -35,14 +47,6 @@
     {
       "basename": "Clair3",
       "path": "Dry Lab/Bioinformatics/Packages/Clair3.md"
-    },
-    {
-      "basename": "Venn diagram",
-      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md"
-    },
-    {
-      "basename": "Violin plot",
-      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md"
     },
     {
       "basename": "Download Genomic Info",
@@ -95,10 +99,6 @@
     {
       "basename": "Work up barcoded Nanopore runs",
       "path": "Nanopore/code for Nanopore/Work up barcoded Nanopore runs.md"
-    },
-    {
-      "basename": "Loop Nanopore basecalling",
-      "path": "Nanopore/code for Nanopore/Loop Nanopore basecalling.md"
     }
   ],
   "omittedPaths": [],

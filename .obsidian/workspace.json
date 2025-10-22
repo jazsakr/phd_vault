@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28a0a235a9361462",
+        "id": "41e1d8619bd59f76",
         "type": "tabs",
         "children": [
           {
-            "id": "eea3d3714028e031",
+            "id": "cc13b2d34f077fa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "700113e64dbc394c",
+            "id": "e82bf94ccc1e2c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "How I use my vault.md"
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "How I use my vault.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "How I use my vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,9 +214,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eea3d3714028e031",
+  "active": "e82bf94ccc1e2c61",
   "lastOpenFiles": [
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Barplot.md",
+    "Vault/embedded images/double_barplot_example1 copy.png",
+    "README.md",
     "How I use my vault.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md",
+    "Vault/embedded images/double_barplot_example1.png",
+    "Vault/embedded images/double_barplot_code_example1.png",
     "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md",
     "Dry Lab/Bioinformatics/Packages/alfred.md",
     "Dry Lab/Bioinformatics/Packages/samtools.md",
@@ -222,10 +231,7 @@
     "Dry Lab/Bioinformatics/Packages/pigz.md",
     "Dry Lab/Bioinformatics/Packages/bigBedToBed.md",
     "Dry Lab/Bioinformatics/Packages/Clair3.md",
-    "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md",
-    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
     "Dry Lab/Bioinformatics/Download Genomic Info.md",
-    "README.md",
     "Vault/embedded images/venn_plot_example1.png",
     "Vault/embedded images/venn_plot_example1adsfasd.png",
     "Vault/embedded images/7897149f-45fe-4712-be13-fbfe992b7339.png",
@@ -235,9 +241,6 @@
     "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md",
     "Vault/embedded images/boxplot_example1.png",
     "Vault/embedded images/Screenshot 2025-04-28 at 8.50.11 PM.png",
-    "Vault/embedded images/sdfgsdfg.png",
-    "Vault/embedded images/Screenshot 2025-04-27 at 1.21.04 AM.png",
-    "Vault/embedded images/asdfasdfasd.png",
     "Dry Lab/Bioinformatics/Coding/Python/Plots",
     "Dry Lab/Bioinformatics/Coding/Python",
     "Vault/scripts/zotero.js",
@@ -256,8 +259,6 @@
     "Nanopore/code for Nanopore/Create a Nanopore code-testing run folder to write code.md",
     "Nanopore/code for Nanopore/Work up barcoded Nanopore runs.md",
     "Nanopore/code for Nanopore/Loop Nanopore basecalling.md",
-    "Nanopore/code for Nanopore/Convert fast5 to pod5 and re-basecall.md",
-    "Wet Lab/Sequencing Log 2024.md",
     "Projects",
     "Dry Lab/Bioinformatics/Coding/script code"
   ]
