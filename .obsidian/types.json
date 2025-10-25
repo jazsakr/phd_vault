@@ -9,6 +9,7 @@
     "dry_lab": "checkbox",
     "wet_lab": "checkbox",
     "data_maintanence": "checkbox",
-    "exp_prep": "checkbox"
+    "exp_prep": "checkbox",
+    "meeting": "checkbox"
   }
 }

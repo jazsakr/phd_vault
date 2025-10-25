@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "How I use my vault",
-      "path": "How I use my vault.md"
-    },
-    {
-      "basename": "Barplot",
-      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Barplot.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Project Activity",
+      "path": "Projects/Project Activity.md"
+    },
+    {
+      "basename": "Productivity log",
+      "path": "Lab/Lab logs/Productivity log.md"
+    },
+    {
+      "basename": "2025-01-02",
+      "path": "Vault/daily note/2025-01-02.md"
+    },
+    {
+      "basename": "2025-01-01",
+      "path": "Vault/daily note/2025-01-01.md"
+    },
+    {
+      "basename": "2025-01-03",
+      "path": "Vault/daily note/2025-01-03.md"
+    },
+    {
+      "basename": "2025-01-06",
+      "path": "Vault/daily note/2025-01-06.md"
+    },
+    {
+      "basename": "daily note template",
+      "path": "Vault/templates/daily note template.md"
+    },
+    {
+      "basename": "How I use my vault",
+      "path": "How I use my vault.md"
     },
     {
       "basename": "Violin plot",
@@ -19,86 +43,6 @@
     {
       "basename": "Venn diagram",
       "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md"
-    },
-    {
-      "basename": "Boxplot",
-      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Boxplot.md"
-    },
-    {
-      "basename": "alfred",
-      "path": "Dry Lab/Bioinformatics/Packages/alfred.md"
-    },
-    {
-      "basename": "samtools",
-      "path": "Dry Lab/Bioinformatics/Packages/samtools.md"
-    },
-    {
-      "basename": "minimap",
-      "path": "Dry Lab/Bioinformatics/Packages/minimap.md"
-    },
-    {
-      "basename": "pigz",
-      "path": "Dry Lab/Bioinformatics/Packages/pigz.md"
-    },
-    {
-      "basename": "bigBedToBed",
-      "path": "Dry Lab/Bioinformatics/Packages/bigBedToBed.md"
-    },
-    {
-      "basename": "Clair3",
-      "path": "Dry Lab/Bioinformatics/Packages/Clair3.md"
-    },
-    {
-      "basename": "Download Genomic Info",
-      "path": "Dry Lab/Bioinformatics/Download Genomic Info.md"
-    },
-    {
-      "basename": "map unmapped methyl bam",
-      "path": "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md"
-    },
-    {
-      "basename": "sequencing_log_2024_heatmapcalender",
-      "path": "Vault/embedded images/sequencing_log_2024_heatmapcalender.png"
-    },
-    {
-      "basename": "citation plugin settings",
-      "path": "Vault/embedded images/citation plugin settings.png"
-    },
-    {
-      "basename": "QuickAdd add paper",
-      "path": "Vault/embedded images/QuickAdd add paper.png"
-    },
-    {
-      "basename": "QuickAdd add paper search",
-      "path": "Vault/embedded images/QuickAdd add paper search.png"
-    },
-    {
-      "basename": "DUX4",
-      "path": "Research/Biology/DUX4.md"
-    },
-    {
-      "basename": "kongEngineeredFSHDMutations2024",
-      "path": "Research/Papers/kongEngineeredFSHDMutations2024.md"
-    },
-    {
-      "basename": "SMCHD1",
-      "path": "Research/Biology/SMCHD1.md"
-    },
-    {
-      "basename": "FSHD",
-      "path": "Research/Biology/FSHD.md"
-    },
-    {
-      "basename": "papers template",
-      "path": "Vault/templates/papers template.md"
-    },
-    {
-      "basename": "Create a Nanopore code-testing run folder to write code",
-      "path": "Nanopore/code for Nanopore/Create a Nanopore code-testing run folder to write code.md"
-    },
-    {
-      "basename": "Work up barcoded Nanopore runs",
-      "path": "Nanopore/code for Nanopore/Work up barcoded Nanopore runs.md"
     }
   ],
   "omittedPaths": [],

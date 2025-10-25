@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBuildingLine",
       "SiPython",
       "RiBookMarkedLine",
       "RiFileCodeLine",
-      "RiFileSearchLine",
-      "RiBookletLine"
+      "RiFileSearchLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "Research": "RiFileSearchLine",
   "Dry Lab/Bioinformatics/Coding/script code": "RiFileCodeLine",
   "Projects": "RiBookMarkedLine",
-  "Dry Lab/Bioinformatics/Coding/Python": "SiPython"
+  "Dry Lab/Bioinformatics/Coding/Python": "SiPython",
+  "Lab": "RiBuildingLine"
 }
