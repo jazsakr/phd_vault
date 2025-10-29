@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41e1d8619bd59f76",
+        "id": "c027eff1adbf6a36",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "cc13b2d34f077fa7",
+            "id": "4e30c107e8d7021f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,55 +20,12 @@
             }
           },
           {
-            "id": "c08f8771cb44ef63",
+            "id": "8e3929ab982946e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/daily note/2025-01-03.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4e3d895645037412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/daily note/2025-01-02.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0b375060c08d15f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/daily note/2025-01-01.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "34a0ab01c5d7e50b",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "f40b24fc16e97b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab/Lab logs/Productivity log.md",
+                "file": "How I use my vault.md",
                 "mode": "preview",
                 "source": true
               }
@@ -257,14 +213,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc13b2d34f077fa7",
+  "active": "4e30c107e8d7021f",
   "lastOpenFiles": [
+    "How I use my vault.md",
+    "README.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Volcano plot.md",
+    "Vault/embedded images/volcano-plot-example2.png",
+    "Lab/Lab logs/Productivity log.md",
+    "Vault/daily note/2025-01-01.md",
+    "Vault/daily note/2025-01-02.md",
+    "Vault/daily note/2025-01-03.md",
     "Projects/Project Activity 2024.md",
     "Projects/Project Activity.md",
-    "Lab/Lab logs/Productivity log.md",
-    "Vault/daily note/2025-01-02.md",
-    "Vault/daily note/2025-01-01.md",
-    "Vault/daily note/2025-01-03.md",
     "Vault/daily note/2025-01-06.md",
     "Vault/templates/daily note template.md",
     "Vault/daily note/2024-01-01.md",
@@ -282,9 +242,6 @@
     "Vault/daily note/2024-01-19.md",
     "Vault/daily note/2024-01-20.md",
     "Vault/daily note/2024-01-22.md",
-    "Vault/daily note/2024-01-23.md",
-    "Vault/daily note/2024-01-25.md",
-    "Vault/daily note/2024-01-27.md",
     "Lab/Lab logs",
     "Lab",
     "Vault/embedded images/volcano-plot-example1.png",
@@ -296,7 +253,6 @@
     "Vault/embedded images/venn_plot_example1adsfasd.png",
     "Vault/embedded images/7897149f-45fe-4712-be13-fbfe992b7339.png",
     "Vault/embedded images/violin_plot_example2.png",
-    "Vault/embedded images/violin_plot_example1.png",
     "Dry Lab/Bioinformatics/Coding/Python/Plots",
     "Dry Lab/Bioinformatics/Coding/Python",
     "Vault/scripts/zotero.js",

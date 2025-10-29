@@ -5,24 +5,32 @@
       "path": "README.md"
     },
     {
-      "basename": "Project Activity",
-      "path": "Projects/Project Activity.md"
+      "basename": "How I use my vault",
+      "path": "How I use my vault.md"
+    },
+    {
+      "basename": "Volcano plot",
+      "path": "Dry Lab/Bioinformatics/Coding/Python/Plots/Volcano plot.md"
     },
     {
       "basename": "Productivity log",
       "path": "Lab/Lab logs/Productivity log.md"
     },
     {
-      "basename": "2025-01-02",
-      "path": "Vault/daily note/2025-01-02.md"
-    },
-    {
       "basename": "2025-01-01",
       "path": "Vault/daily note/2025-01-01.md"
     },
     {
+      "basename": "2025-01-02",
+      "path": "Vault/daily note/2025-01-02.md"
+    },
+    {
       "basename": "2025-01-03",
       "path": "Vault/daily note/2025-01-03.md"
+    },
+    {
+      "basename": "Project Activity",
+      "path": "Projects/Project Activity.md"
     },
     {
       "basename": "2025-01-06",
@@ -31,10 +39,6 @@
     {
       "basename": "daily note template",
       "path": "Vault/templates/daily note template.md"
-    },
-    {
-      "basename": "How I use my vault",
-      "path": "How I use my vault.md"
     },
     {
       "basename": "Violin plot",
