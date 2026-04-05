@@ -1,12 +1,12 @@
 ---
-day_of_week: 
-dry_lab: 
-wet_lab: 
-meeting: 
-sequencing: 
-sequencing_type: 
 project: 
 project_type:
+wet_lab: 
+dry_lab:  
+meeting:
+experiment_type: 
+sequencing: 
+sequencing_type: 
 ---
 
 # <font color="seagreen">Log</font>

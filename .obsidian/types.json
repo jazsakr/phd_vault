@@ -10,6 +10,9 @@
     "wet_lab": "checkbox",
     "data_maintanence": "checkbox",
     "exp_prep": "checkbox",
-    "meeting": "checkbox"
+    "meeting": "checkbox",
+    "sequencing_type": "multitext",
+    "experiment_type": "multitext",
+    "project_type": "multitext"
   }
 }

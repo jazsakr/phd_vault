@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e30c107e8d7021f",
+            "id": "879c026422c03523",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,11 +16,13 @@
                 "file": "README.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
-            "id": "8e3929ab982946e5",
+            "id": "383541f8026c8bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,10 +30,13 @@
                 "file": "How I use my vault.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "How I use my vault"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
-              }
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +74,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -82,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -105,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -113,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -129,8 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           },
           {
@@ -140,8 +163,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,7 +185,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -170,7 +199,9 @@
                 "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -178,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -186,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -198,6 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,20 +249,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e30c107e8d7021f",
+  "active": "383541f8026c8bda",
   "lastOpenFiles": [
-    "How I use my vault.md",
     "README.md",
-    "Dry Lab/Bioinformatics/Coding/Python/Plots/Volcano plot.md",
-    "Vault/embedded images/volcano-plot-example2.png",
+    "How I use my vault.md",
+    "Vault/templates/daily note template.md",
     "Lab/Lab logs/Productivity log.md",
     "Vault/daily note/2025-01-01.md",
-    "Vault/daily note/2025-01-02.md",
+    "Vault/daily note/2025-01-06.md",
     "Vault/daily note/2025-01-03.md",
+    "Vault/daily note/2025-01-02.md",
+    "Dry Lab/Bioinformatics/Coding/Miniconda.md",
+    "Dry Lab/Bioinformatics/Coding/script code/map unmapped methyl bam.md",
+    "Research/Biology/DUX4.md",
+    "Research/Biology/SMCHD1.md",
+    "Research/Biology/FSHD.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Violin plot.md",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Venn diagram.md",
+    "Vault/embedded images/violin-plot-example1.png",
+    "Vault/embedded images/2025-11-09-violin-plot-example1 copy.png",
+    "Dry Lab/Bioinformatics/Coding/Python/Plots/Volcano plot.md",
+    "Vault/embedded images/volcano-plot-example2.png",
     "Projects/Project Activity 2024.md",
     "Projects/Project Activity.md",
-    "Vault/daily note/2025-01-06.md",
-    "Vault/templates/daily note template.md",
     "Vault/daily note/2024-01-01.md",
     "Vault/daily note/2024-01-30.md",
     "Vault/daily note/2024-01-31.md",
@@ -235,13 +280,6 @@
     "Vault/daily note/2024-01-09.md",
     "Vault/daily note/2024-01-08.md",
     "Vault/daily note/2024-01-10.md",
-    "Vault/daily note/2024-01-15.md",
-    "Vault/daily note/2024-01-16.md",
-    "Vault/daily note/2024-01-17.md",
-    "Vault/daily note/2024-01-18.md",
-    "Vault/daily note/2024-01-19.md",
-    "Vault/daily note/2024-01-20.md",
-    "Vault/daily note/2024-01-22.md",
     "Lab/Lab logs",
     "Lab",
     "Vault/embedded images/volcano-plot-example1.png",
@@ -251,8 +289,6 @@
     "Vault/embedded images/double_barplot_code_example1.png",
     "Vault/embedded images/venn_plot_example1.png",
     "Vault/embedded images/venn_plot_example1adsfasd.png",
-    "Vault/embedded images/7897149f-45fe-4712-be13-fbfe992b7339.png",
-    "Vault/embedded images/violin_plot_example2.png",
     "Dry Lab/Bioinformatics/Coding/Python/Plots",
     "Dry Lab/Bioinformatics/Coding/Python",
     "Vault/scripts/zotero.js",
